@@ -8,9 +8,9 @@ If enough progress has been made, I will create a separate repo for that project
 ## Work in Progress
 
 - Mirror Magic
-  - Links for monitor driver board
-    - [The one I bought](https://www.aliexpress.com/item/4000996604990.html)
-    - [Other potential board](https://www.aliexpress.com/item/32828904517.html)
+  - I got a spare monitor from a partially broken monitor at school. [Panel specs](https://www.panelook.com/LTM170EU-L31_Samsung_17.0_LCM_overview_8029.html)
+  - [Monitor Driver board I bought](https://www.aliexpress.com/item/4000996604990.html)
+  - [Other potential board](https://www.aliexpress.com/item/32828904517.html)
 
 ---
 
