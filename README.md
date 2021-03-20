@@ -29,6 +29,13 @@ If enough progress has been made, I will create a separate repo for that project
   - OR could copy him and use 3D printed parts
     - Could plant it outside in soil to play outside
 
+- Setup Pi Hole
+  - [Tutorial by LTT](https://linustechtips.com/topic/1094810-pi-hole-setup-tutorial/)
+  - May need to do some DNS manipulation with [OpenDNS](https://support.opendns.com/hc/en-us/articles/228009007-Android-Configuration-instructions-for-OpenDNS)
+  - [Tutorial and Docs from Pi Hole](https://docs.pi-hole.net/guides/vpn/openvpn/installation/)
+
+- Setup a local network storage using modified laptop
+
 - Frisbee that can be seen in the dark by using the reflective propoerties of stree-reflectors
 
 - Fix laser in Khet game
@@ -36,6 +43,7 @@ If enough progress has been made, I will create a separate repo for that project
   - Find laser [here](https://www.aliexpress.com/w/wholesale-laser-1-mw-red.html)
 
 - Simulation of particle dyanmics inspired from vid by [Reducible](https://www.youtube.com/watch?v=eED4bSkYCB8)
+
 
 # Skills to Learn
 
