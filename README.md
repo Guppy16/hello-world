@@ -35,21 +35,44 @@ If enough progress has been made, I will create a separate repo for that project
   - [Tutorial and Docs from Pi Hole](https://docs.pi-hole.net/guides/vpn/openvpn/installation/)
 
 - Setup a local network storage using modified laptop
+  - Check out this home lab [article](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 
 - Frisbee that can be seen in the dark by using the reflective propoerties of stree-reflectors
+
+- Simulation of particle dyanmics inspired from vid by [Reducible](https://www.youtube.com/watch?v=eED4bSkYCB8)
+
+---
+
+## 3D printer upgrades
+
+- Setup Octoprint
+  - Record vids and uploat them to YT
+
+- Connect a projector to get a live preview of what's being built
+
+- Proper ventialtion
+
+---
+
+## Toys to fix
 
 - Fix laser in Khet game
   - Will need to figure out safety of laser
   - Find laser [here](https://www.aliexpress.com/w/wholesale-laser-1-mw-red.html)
 
-- Simulation of particle dyanmics inspired from vid by [Reducible](https://www.youtube.com/watch?v=eED4bSkYCB8)
+- Fix Robi robot
+  - Seems like smth wrong with the voice recognition
+  - Check the [forum](https://forum.model-space.co.uk/)
 
+---
 
-# Skills to Learn
+## Skills to Learn
 
+- Quantum Computing for programmers
 - Learn [cpp](https://www.learncpp.com/)
 - Learn dvorak
 - Python ML for recognising digits
 - Python ML for games using reinforcement learning
+- [Functional Programming](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - Watch maths for ML
 - Android programming
