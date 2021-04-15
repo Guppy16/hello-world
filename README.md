@@ -3,6 +3,8 @@
 This repo stores is a list of ideas and my research so far. 
 If enough progress has been made, I will create a separate repo for that project.
 
+Could try and get some money from this site. https://www.unmannedtech.co.uk/studentsresearchers.html
+
 ---
 
 ## Work in Progress
@@ -54,9 +56,16 @@ If enough progress has been made, I will create a separate repo for that project
 
 - Modify Start GCode
 - Check firmware
+  - [Update Firmware](https://howchoo.com/ender3/ender-3-v2-firmware-update)
+  - [Creality Site](https://www.creality.com/download)
+  - It may be better to compile firmware from source
 - Octoprint
-  - [x] Setup Octoprint
+  - [x] [Setup Octoprint](https://howchoo.com/octoprint/ender-3-v2-octoprint)
   - [ ] Record vids and upload them to YT
+  - [ ] [Power RPi from 3D printer power supply](https://howchoo.com/3dprinting/how-to-power-a-raspberry-pi-from-your-3d-printer)
+  - [ ] [Print an enclosure for RPi](https://www.thingiverse.com/thing:3256773). [Another One](https://www.thingiverse.com/thing:4176051) - interesting design, but may not work
+  - [ ] [Print Camera mount](https://www.thingiverse.com/thing:3417079)
+  - [ ] Attach a fan and camera
 
 - Safety
   - [ ] Ventilation
