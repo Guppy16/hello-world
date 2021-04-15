@@ -14,15 +14,18 @@ If enough progress has been made, I will create a separate repo for that project
   - May need to purchase an expandable micro usb to USB slots
 
 - Turn a laptop hard drive into a portable drive [here](https://www.cnet.com/google-amp/news/how-to-reuse-your-old-laptop-hard-drive/)
+- Setup a local network storage using modified laptop
+  - Check out this home lab [article](https://haydenjames.io/home-lab-beginners-guide-hardware/)
+
+
+---
+
+## Cool Ideas
 
 - Convert mechanical standing desk into electric standing desk
    - use [motor](https://www.amazon.co.uk/WINOMO-3V-6V-Short-Shaft-Torque/dp/B010SP427I) connected in H-bridge
    - rpi simple button control for now
    - possible upgrade would be to make it voice activated
-
----
-
-## Cool Ideas
 
 - Arduino Whack-a-mole Lockdown exercise game inspired by [Sajed Dosenbach](https://www.youtube.com/watch?v=iWI_qy8OntE)
   - Could try a software approach using paper and img processing
@@ -34,8 +37,6 @@ If enough progress has been made, I will create a separate repo for that project
   - May need to do some DNS manipulation with [OpenDNS](https://support.opendns.com/hc/en-us/articles/228009007-Android-Configuration-instructions-for-OpenDNS)
   - [Tutorial and Docs from Pi Hole](https://docs.pi-hole.net/guides/vpn/openvpn/installation/)
 
-- Setup a local network storage using modified laptop
-  - Check out this home lab [article](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 
 - Frisbee that can be seen in the dark by using the reflective propoerties of stree-reflectors
 
@@ -45,12 +46,19 @@ If enough progress has been made, I will create a separate repo for that project
 
 ## 3D printer upgrades
 
-- Setup Octoprint
-  - Record vids and uploat them to YT
+- Modify Start GCode
+- Check firmware
+- Octoprint
+  - [x] Setup Octoprint
+  - [ ] Record vids and upload them to YT
+
+- Safety
+  - [ ] Ventilation
+  - [ ] Smoke detector
+  - [ ] Smart switch
+  - [ ] Enclosed
 
 - Connect a projector to get a live preview of what's being built
-
-- Proper ventialtion
 
 ---
 
