@@ -17,10 +17,16 @@ If enough progress has been made, I will create a separate repo for that project
 - Setup a local network storage using modified laptop
   - Check out this home lab [article](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 
+- DJI Tello Drone in Acro Mode
+  - Seems like no one has coded it, but some ppl may wna try it
+  - Not sure if it's feasible considering the drone's props and battery may not be suitable
 
 ---
 
 ## Cool Ideas
+
+[- DIY VR Haptic Gloves](https://hackaday.io/project/178243-lucidvr-budget-haptic-glove)
+  - [YT Vid](https://www.youtube.com/watch?v=nmP8iGaPbeI)
 
 - Convert mechanical standing desk into electric standing desk
    - use [motor](https://www.amazon.co.uk/WINOMO-3V-6V-Short-Shaft-Torque/dp/B010SP427I) connected in H-bridge
