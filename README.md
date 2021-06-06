@@ -73,6 +73,10 @@ Could try and get some money from this site. https://www.unmannedtech.co.uk/stud
   - [ ] Smart switch
   - [ ] Enclosed
 
+- Upgrade to Aluminium Extruder
+  - [Tutorial](https://www.youtube.com/watch?v=ikVFselJO4Y)
+  - [Purchase](https://www.th3dstudio.com/product/ezfeed-extruderupgraded-aluminum-extruder-v2/)
+
 - Connect a projector to get a live preview of what's being built
 
 ---
