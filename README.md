@@ -23,6 +23,11 @@ Could try and get some money from this site. https://www.unmannedtech.co.uk/stud
   - Seems like no one has coded it, but some ppl may wna try it
   - Not sure if it's feasible considering the drone's props and battery may not be suitable
 
+- Nixie Clock
+  - Purchase the kit w/o IN-14 tubes on [ebay](https://www.ebay.co.uk/itm/184671627749)
+  - Purchase the IN-14 tubes in [4](https://www.ebay.co.uk/itm/303748809541) / [6](https://www.ebay.co.uk/itm/274874326051) pack on ebay
+  - PV Electronics Kit [Instructions](http://www.pvelectronics.co.uk/index.php?main_page=page_2)
+  - Note that the kit on PV Electronics [site](https://www.pvelectronics.co.uk/index.php?products_id=244) is more expensive
 ---
 
 ## Cool Ideas
