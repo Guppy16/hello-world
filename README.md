@@ -1,13 +1,26 @@
-# Planned Projects
+# Projects
 
 This repo stores is a list of ideas and my research so far. 
 If enough progress has been made, I will create a separate repo for that project.
-
-Could try and get some money from this site. https://www.unmannedtech.co.uk/studentsresearchers.html
+View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 ---
 
 ## Work in Progress
+
+- Electric Penny Board
+  - 1 Electric Wheel Combo:
+    - [ESC £50](https://www.amazon.co.uk/Focket-Electric-Skateboard-Longboard-Controller/dp/B07WHWV7HJ)
+    - [Electric Wheel £70](https://www.ebay.co.uk/itm/353179721593)
+  - 2 Electric Wheel Combo:
+    - ESC
+      - [£90](https://www.amazon.co.uk/Focket-Skateboard-Longboard-Substitute-Mainboard/dp/B07Y7ZHRPQ)
+      - [£60](https://www.ebay.co.uk/itm/284278794824)
+      - [£50](https://www.ebay.co.uk/itm/203240710991)
+     - [Dual Hub Motor Drive Kit](https://www.ebay.co.uk/itm/313658467222)
+  - 6S2P or [10S2P > £100](https://www.amazon.co.uk/s?k=10s2p+Battery)
+  - Charger 
+  - [Spare parts](https://www.ebay.co.uk/itm/163846909246)
 
 - Mirror Magic
   - I got a spare monitor from a partially broken monitor at school. [Panel specs](https://www.panelook.com/LTM170EU-L31_Samsung_17.0_LCM_overview_8029.html)
@@ -18,21 +31,24 @@ Could try and get some money from this site. https://www.unmannedtech.co.uk/stud
 - Turn a laptop hard drive into a portable drive [here](https://www.cnet.com/google-amp/news/how-to-reuse-your-old-laptop-hard-drive/)
 - Setup a local network storage using modified laptop
   - Check out this home lab [article](https://haydenjames.io/home-lab-beginners-guide-hardware/)
+- [Add SSD + HDD combo to PC](https://www.makeuseof.com/tag/using-a-small-ssd-and-a-regular-hard-drive-how-to-organize-your-files/)
+
+---
+
+## Cool Ideas
 
 - DJI Tello Drone in Acro Mode
   - Seems like no one has coded it, but some ppl may wna try it
-  - Not sure if it's feasible considering the drone's props and battery may not be suitable
+  - Not sure if it's feasible considering the drone's props are NOT screwed on and battery may not be suitable
+  - Could try and get sponsored from [here](https://www.unmannedtech.co.uk/studentsresearchers.html)
 
 - Nixie Clock
   - Purchase the kit w/o IN-14 tubes on [ebay](https://www.ebay.co.uk/itm/184671627749)
   - Purchase the IN-14 tubes in [4](https://www.ebay.co.uk/itm/303748809541) / [6](https://www.ebay.co.uk/itm/274874326051) pack on ebay
   - PV Electronics Kit [Instructions](http://www.pvelectronics.co.uk/index.php?main_page=page_2)
   - Note that the kit on PV Electronics [site](https://www.pvelectronics.co.uk/index.php?products_id=244) is more expensive
----
 
-## Cool Ideas
-
-[- DIY VR Haptic Gloves](https://hackaday.io/project/178243-lucidvr-budget-haptic-glove)
+- [DIY VR Haptic Gloves](https://hackaday.io/project/178243-lucidvr-budget-haptic-glove)
   - [YT Vid](https://www.youtube.com/watch?v=nmP8iGaPbeI)
 
 - Convert mechanical standing desk into electric standing desk
@@ -50,8 +66,7 @@ Could try and get some money from this site. https://www.unmannedtech.co.uk/stud
   - May need to do some DNS manipulation with [OpenDNS](https://support.opendns.com/hc/en-us/articles/228009007-Android-Configuration-instructions-for-OpenDNS)
   - [Tutorial and Docs from Pi Hole](https://docs.pi-hole.net/guides/vpn/openvpn/installation/)
 
-
-- Frisbee that can be seen in the dark by using the reflective propoerties of stree-reflectors
+- Frisbee that can be seen in the dark by using the reflective propoerties of stree-reflectors (cat's eyes)
 
 - Simulation of particle dyanmics inspired from vid by [Reducible](https://www.youtube.com/watch?v=eED4bSkYCB8)
 
