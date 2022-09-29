@@ -39,10 +39,11 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 - Use Wii(U) Controller for Steam
   - Specifically, want to use a wii u controller for drone games such as LiftOff, so that I don't have to take my controller back home
-  - Most controllers connect over bluetooth. The BL stack required for this is built in to Linux, but not in to Windows. 
-  TeHaxor69 realsed some SW on [this GBATEMP thread](https://gbatemp.net/threads/wii-u-pro-controller-to-pc-program-release.343159/) that supposedly works on windows.
-  It manipulates your BL driver, so I haven't tested it yet. [This reddit post](https://www.reddit.com/r/wiiu/comments/3bzdx0/wii_u_pro_controller_as_xbox_controller_on/) mentions that you still need the Toshiba driver. 
-  However, note that I couldn't get the Wii U Pro Controller to connect to my Linux Mint Laptop, but could get the normal Wii Controller. 
+  - Most controllers connect over bluetooth. The BL stack required for this is built in to Linux, but not in to Windows. There are some options for Windows, which I haven't tested yet because they manipulate the BL driver directly:
+    - [WiinUPro](https://github.com/KeyPuncher/WiinUPro/releases)
+    - TeHaxor69 realsed some SW on [this GBATEMP thread](https://gbatemp.net/threads/wii-u-pro-controller-to-pc-program-release.343159/)
+    - [This reddit post](https://www.reddit.com/r/wiiu/comments/3bzdx0/wii_u_pro_controller_as_xbox_controller_on/) uses the Toshiba driver. 
+  - However, note that I couldn't get the Wii U Pro Controller to connect to my Linux Mint Laptop, but could get the normal Wii Controller. 
   I suspect this may be a BL stack issue, considering that all controllers can connect to the Wii U normally. It could also be a HW issue.
   Other people also had a similar issues:
     - [Wii U Pro controller was not detected](https://forum.manjaro.org/t/wii-u-pro-controller-is-not-detected-by-bluetooth/54420)
