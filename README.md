@@ -37,24 +37,6 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 ## Cool Ideas
 
-- Use Wii(U) Controller for Steam
-  - Specifically, want to use a wii u controller for drone games such as LiftOff, so that I don't have to take my controller back home
-  - Most controllers connect over bluetooth. The BL stack required for this is built in to Linux, but not in to Windows. There are some options for Windows, which I haven't tested yet because they manipulate the BL driver directly:
-    - [WiinUPro](https://github.com/KeyPuncher/WiinUPro/releases) and some more info on [their site](https://sites.google.com/site/wiinupro/home?authuser=0)
-    - TeHaxor69 realsed some SW on [this GBATEMP thread](https://gbatemp.net/threads/wii-u-pro-controller-to-pc-program-release.343159/)
-    - [This reddit post](https://www.reddit.com/r/wiiu/comments/3bzdx0/wii_u_pro_controller_as_xbox_controller_on/) uses the Toshiba driver. 
-  - However, note that I couldn't get the Wii U Pro Controller to connect to my Linux Mint Laptop, but could get the normal Wii Controller. 
-  I suspect this may be a BL stack issue, considering that all controllers can connect to the Wii U normally. It could also be a HW issue.
-  Other people also had a similar issues:
-    - [Wii U Pro controller was not detected](https://forum.manjaro.org/t/wii-u-pro-controller-is-not-detected-by-bluetooth/54420)
-    - Some people found that there was an issue connecting the Wii U Pro Controller after an update [here](https://www.linux.org/threads/solved-cannot-connect-wii-u-pro-controller-after-an-update.33396/)
-    - Note that it also seems that a Switch controller can't be connected yet as mentioned on this [reddit thread](https://www.reddit.com/r/linux_gaming/comments/98xkt9/wiiu_pro_controllers_dont_work/). 
-    However [this reddit thread](https://www.reddit.com/r/wiiu/comments/f5cn77/wii_u_pro_controller_in_linux/) suggests that there is a `hid-nintendo` driver which can connect to the switch controller. 
-  - [Guide getting a Wii U Pro Controller to work](https://www.linuxquestions.org/questions/slackware-14/guide-getting-a-wii-u-pro-controller-to-work-4175576590/). 
-    Although I haven't tried it, it doesn't look like it will work, because it assumes that the BL connection works, which it didn't for me.
-  - The last resort is to use the Mayflash adpater which can connect to any remote
- 
-
 - DJI Tello Drone in Acro Mode
   - Seems like no one has coded it, but some ppl may wna try it
   - Not sure if it's feasible considering the drone's props are NOT screwed on and battery may not be suitable
