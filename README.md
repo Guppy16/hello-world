@@ -66,9 +66,12 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
   - May need to do some DNS manipulation with [OpenDNS](https://support.opendns.com/hc/en-us/articles/228009007-Android-Configuration-instructions-for-OpenDNS)
   - [Tutorial and Docs from Pi Hole](https://docs.pi-hole.net/guides/vpn/openvpn/installation/)
 
-- Frisbee that can be seen in the dark by using the reflective propoerties of stree-reflectors (cat's eyes)
+- Frisbee that can be seen in the dark 
+by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.m.wikipedia.org/wiki/Cat's_eye_(road))
 
 - Simulation of particle dyanmics inspired from vid by [Reducible](https://www.youtube.com/watch?v=eED4bSkYCB8)
+
+- Build your own keyboard using this [PCB Guide book](https://wiki.ai03.com/books/pcb-design)
 
 ---
 
