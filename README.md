@@ -8,6 +8,20 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 ## Work in Progress
 
+- Electric Penny Board
+  - 1 Electric Wheel Combo:
+    - [ESC £50](https://www.amazon.co.uk/Focket-Electric-Skateboard-Longboard-Controller/dp/B07WHWV7HJ)
+    - [Electric Wheel £70](https://www.ebay.co.uk/itm/353179721593)
+  - 2 Electric Wheel Combo:
+    - ESC
+      - [£90](https://www.amazon.co.uk/Focket-Skateboard-Longboard-Substitute-Mainboard/dp/B07Y7ZHRPQ)
+      - [£60](https://www.ebay.co.uk/itm/284278794824)
+      - [£50](https://www.ebay.co.uk/itm/203240710991)
+     - [Dual Hub Motor Drive Kit](https://www.ebay.co.uk/itm/313658467222)
+  - 6S2P or [10S2P > £100](https://www.amazon.co.uk/s?k=10s2p+Battery)
+  - Charger 
+  - [Spare parts](https://www.ebay.co.uk/itm/163846909246)
+
 - Mirror Magic
   - I got a spare monitor from a partially broken monitor at school. [Panel specs](https://www.panelook.com/LTM170EU-L31_Samsung_17.0_LCM_overview_8029.html)
   - [Monitor Driver board I bought](https://www.aliexpress.com/item/4000996604990.html)
@@ -112,3 +126,8 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
 - [Functional Programming](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - Watch maths for ML
 - Android programming
+- Note taking apps
+  - [Obsidian](https://obsidian.md/)
+  - Notion
+  - Notability (iOS)
+  - Drawboard
