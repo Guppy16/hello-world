@@ -8,6 +8,16 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 ## Work in Progress
 
+- Universal Remote
+  - IR
+    - Arduino IR-Remote [github repo](https://github.com/Arduino-IRremote/Arduino-IRremote)
+    - Cheap IR blaster [TSOP 31238](https://www.mouser.co.uk/datasheet/2/427/tsop312-1767175.pdf). 
+    Tests showed that this was unreliable.
+    - [TSUS 54xx](https://docs.rs-online.com/f3b6/0900766b80e22d5c.pdf) Note sure why this was researched
+  - Wifi
+    - Need to experiment with Pico Wireless module
+    - Does radio remote work on the required frequency?
+
 - Mirror Magic
   - I got a spare monitor from a partially broken monitor at school. [Panel specs](https://www.panelook.com/LTM170EU-L31_Samsung_17.0_LCM_overview_8029.html)
   - [Monitor Driver board I bought](https://www.aliexpress.com/item/4000996604990.html)
