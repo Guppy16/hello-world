@@ -10,6 +10,7 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 - Universal Remote
   - IR
+    - Bought IR LEDs from bitsboxuk. (TSOP31236, TSOP2438, TSUS5400)
     - Arduino IR-Remote [github repo](https://github.com/Arduino-IRremote/Arduino-IRremote)
     - Cheap IR blaster [TSOP 31238](https://www.mouser.co.uk/datasheet/2/427/tsop312-1767175.pdf). 
     Tests showed that this was unreliable.
