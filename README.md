@@ -8,6 +8,18 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 ## Work in Progress
 
+- Thermal Camera project
+  - Aim: Detect thermally cool spots within the house to determine if insulation is needed. 
+  - Thermal camera: MLX90640 from [Pimorini](https://shop.pimoroni.com/products/mlx90640-thermal-camera-breakout)
+  - The repo that worked on my Pico was a [driver by Vian Patel](https://github.com/VianPatel/mlx90640-RPI-Pico). 
+  This should be used as a submodule within my project. 
+  - The simplest approach would be to live stream the serial data over usb and plot in Python. Interpolation with scipy would be nice. 
+  - Other resources:
+    - [Datasheet](https://cdn.sparkfun.com/assets/7/b/f/2/d/MLX90640-Datasheet-Melexis.pdf)
+    - [Pimorini Pico Library](https://github.com/pimoroni/pimoroni-pico)
+    - [Pimorini MLX90640 Library](https://github.com/pimoroni/mlx90640-library) (I don't think this is compatible with the Pico, due to the I2C driver being different).
+  
+
 - Universal Remote
   - IR
     - Bought IR LEDs from bitsboxuk. (TSOP31236, TSOP2438, TSUS5400)
@@ -116,10 +128,8 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
 ## Skills to Learn
 
 - Quantum Computing for programmers
-- Learn [cpp](https://www.learncpp.com/)
 - Learn dvorak
 - Python ML for recognising digits
 - Python ML for games using reinforcement learning
 - [Functional Programming](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - Watch maths for ML
-- Android programming
