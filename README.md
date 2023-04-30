@@ -44,7 +44,18 @@ View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 ---
 
-## Cool Ideas
+## Backlog
+
+- Linux on Dell XPS 2-in-1 7390
+  - Brief: Windows uses too much RAM and SSd storage. I don't use any CAD software anymore, so I can switch over to Linux
+  - It seems that current versions of Linux/Kernel don't support:
+    - Camera, Bluetooth pen (partial support was mentioned in Gentoo)
+  - Arch:
+    - [Wiki](https://wiki.archlinux.org/title/Dell_XPS_13_2-in-1_(7390)) page shows more setup information
+    - [Talk](https://wiki.archlinux.org/title/Talk:Dell_XPS_13_2-in-1_(7390) page is a discussion on current issues
+    - This [gist](https://gist.github.com/giannivh/02f69ebf1470c811d0f52fec5dc669e4) exists to help configure the settings when installing Arch
+  - Ubuntu:
+    - [Wiki](https://wiki.ubuntu.com/Dell/XPS/XPS-13-7390-2-in-1) lists known issues
 
 - DJI Tello Drone in Acro Mode
   - Seems like no one has coded it, but some ppl may wna try it
