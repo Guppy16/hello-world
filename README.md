@@ -5,8 +5,15 @@ If enough progress has been made, I will create a separate repo for that project
 View my complete projects on my [GitHub](https://github.com/Guppy16)
 
 ---
+## Spun out Repos
+List of repos that have spun out from this idea generation repo
 
-## Work in Progress
+- [pi-gamez](https://github.com/Guppy16/pi-gamez): Using a Wii remote or pi as a game controller
+- [electric-board](https://github.com/Guppy16/electric-board): Making an electric penny board
+
+---
+
+## Research in Progress
 
 - Thermal Camera project
   - Aim: Detect thermally cool spots within the house to determine if insulation is needed. 
