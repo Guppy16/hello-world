@@ -110,11 +110,23 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
 
 - Build your own keyboard using this [PCB Guide book](https://wiki.ai03.com/books/pcb-design)
 
+- Home networking
+  - Home automation using HomeAssistant
+  - _Syncthing_ can be used to sync files seamlessly; perhaps streaming may be more sensible
+
+- Phone APKs
+  - ReVanced - not sure what's the most legit, or if they're all the same
+    - [revanced.app](https://revanced.app/)
+    - [VancedManager](https://vancedmanager.com/)
+    - [revanced.io](https://revanced.io/youtube/)
+  - GCam Mode
+
 ---
 
 ## 3D printer upgrades
 
 - Modify Start GCode
+- [Full Control](https://fullcontrol.xyz/)
 - Check firmware
   - [Update Firmware](https://howchoo.com/ender3/ender-3-v2-firmware-update)
   - [Creality Site](https://www.creality.com/download)
@@ -155,6 +167,7 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
 
 ## Skills to Learn / Reading List
 
+- Build WebApps using Rust (e.g. Rocket Framework)
 - [Gemoetric Deep Learning](https://geometricdeeplearning.com/)
 - Quantum Computing for programmers
 - Learn dvorak
