@@ -143,8 +143,9 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
 
 ---
 
-## Skills to Learn
+## Skills to Learn / Reading List
 
+- [Gemoetric Deep Learning](https://geometricdeeplearning.com/)
 - Quantum Computing for programmers
 - Learn dvorak
 - Python ML for recognising digits
