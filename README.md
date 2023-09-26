@@ -34,6 +34,12 @@ List of repos that have spun out from this idea generation repo
     - Cheap IR blaster [TSOP 31238](https://www.mouser.co.uk/datasheet/2/427/tsop312-1767175.pdf). 
     Tests showed that this was unreliable.
     - [TSUS 54xx](https://docs.rs-online.com/f3b6/0900766b80e22d5c.pdf) Note sure why this was researched
+    - Other methods:
+      - RPi Geek post using _lirc_ library
+      - [Johannes' blog](https://wej.k.vu/electronics/serial_ir_remote_control/)
+      - VR19 IR sensor
+      - Build a Universal IR Controller using an older smartphone
+      - 
   - Wifi
     - Need to experiment with Pico Wireless module
     - Does radio remote work on the required frequency?
@@ -53,6 +59,10 @@ List of repos that have spun out from this idea generation repo
 
 ## Backlog
 
+- Laptop Repair
+  - I own a Dell XPS 2-in-1 7390, which has a [common issue]([url](https://www.dell.com/community/en/conversations/xps/xps-13-7390-2-in-1-the-rubber-strip-at-the-bottom-came-off-after-two-months/647f87e6f4ccf8a8de729a68?page=2)) of the rubber coming off the back casing
+  - Sol 1: [2pcs /Set New Laptop Bottom Cover Base Replacement Pad Rubber For Dell XPS 13 9370 9380 7390 P82G](https://www.aliexpress.com/item/1005006037614254.html)
+  - Sol 2: [Genuine Dell XPS 13 7390 2-in-1 P103G Base Bottom Case Cover 02CXR0 Grade C](https://www.ebay.co.uk/itm/404489208832)
 - Linux on Dell XPS 2-in-1 7390
   - Brief: Windows uses too much RAM and SSd storage. I don't use any CAD software anymore, so I can switch over to Linux
   - It seems that current versions of Linux/Kernel don't support:
