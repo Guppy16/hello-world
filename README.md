@@ -15,6 +15,10 @@ List of repos that have spun out from this idea generation repo
 
 ## Research in Progress
 
+- LinuxMint
+  - Motivation: Repurposing old laptop for lightweight tasks (browsing, coding, pdf viewing)
+  - [VerifyISOimage](https://linuxmint-installation-guide.readthedocs.io/en/latest/verify.html) on [Windows](https://forums.linuxmint.com/viewtopic.php?f=42&t=291093)
+
 - Thermal Camera project
   - Aim: Detect thermally cool spots within the house to determine if insulation is needed. 
   - Thermal camera: MLX90640 from [Pimorini](https://shop.pimoroni.com/products/mlx90640-thermal-camera-breakout)
@@ -44,15 +48,15 @@ List of repos that have spun out from this idea generation repo
     - Need to experiment with Pico Wireless module
     - Does radio remote work on the required frequency?
 
-- Mirror Magic
-  - I got a spare monitor from a partially broken monitor at school. [Panel specs](https://www.panelook.com/LTM170EU-L31_Samsung_17.0_LCM_overview_8029.html)
-  - [Monitor Driver board I bought](https://www.aliexpress.com/item/4000996604990.html)
-  - [Other potential board](https://www.aliexpress.com/item/32828904517.html)
-  - May need to purchase an expandable micro usb to USB slots
 
 - Turn a laptop hard drive into a portable drive [here](https://www.cnet.com/google-amp/news/how-to-reuse-your-old-laptop-hard-drive/)
-- Setup a local network storage using modified laptop
+- Home Server
   - Check out this home lab [article](https://haydenjames.io/home-lab-beginners-guide-hardware/)
+  - Media server using _Plex Server_
+  - Article from [the Home Journey](https://thesmarthomejourney.com/2021/09/06/home-server-basics-ansible/)
+  - Video by [Raid Owl](https://www.youtube.com/watch?v=rmVCtZrtvgA)
+  - Check notes with Noah
+  - [TrueNAS](https://www.truenas.com/truenas-core/)
 - [Add SSD + HDD combo to PC](https://www.makeuseof.com/tag/using-a-small-ssd-and-a-regular-hard-drive-how-to-organize-your-files/)
 
 ---
@@ -73,6 +77,12 @@ List of repos that have spun out from this idea generation repo
     - This [gist](https://gist.github.com/giannivh/02f69ebf1470c811d0f52fec5dc669e4) exists to help configure the settings when installing Arch
   - Ubuntu:
     - [Wiki](https://wiki.ubuntu.com/Dell/XPS/XPS-13-7390-2-in-1) lists known issues
+
+- Minigames
+  - Aim: Use the SSD1306 displays bought ages ago
+  - Display [datasheet](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf)
+  - Display [schematic](https://cdn-learn.adafruit.com/assets/assets/000/093/884/original/adafruit_products_0-96in_OLED_sch.png?1596746114)
+  - 
 
 - DJI Tello Drone in Acro Mode
   - Seems like no one has coded it, but some ppl may wna try it
@@ -121,12 +131,28 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
     - [revanced.io](https://revanced.io/youtube/)
   - GCam Mode
 
+- Mirror Magic
+  - I got a spare monitor from a partially broken monitor at school. [Panel specs](https://www.panelook.com/LTM170EU-L31_Samsung_17.0_LCM_overview_8029.html)
+  - [Monitor Driver board I bought](https://www.aliexpress.com/item/4000996604990.html)
+  - [Other potential board](https://www.aliexpress.com/item/32828904517.html)
+  - May need to purchase an expandable micro usb to USB slots
+
+- Photo Storage
+  - Motivation: After going on a group trip, I wanted people to share pictures, however current methods do nota allow this without using up a lot of storage space.
+  - Ideas: Create a new google account, and share pictures using up its free tier
+  - There are some articles:
+    - https://www.techradar.com/best/best-photo-storage
+    - https://www.greenfly.com/other-resources/collect-photos-from-group/
+  - Motivation 2: I want to be able to store photos in a way that makes it easier for me to recall events.
+  - Photocircle: https://www.photocircleapp.com/
+  - 
+
 ---
 
 ## 3D printer upgrades
 
 - Modify Start GCode
-- [Full Control](https://fullcontrol.xyz/)
+- [Full Control](https://fullcontrol.xyz/) e.g. overhang challenge
 - Check firmware
   - [Update Firmware](https://howchoo.com/ender3/ender-3-v2-firmware-update)
   - [Creality Site](https://www.creality.com/download)
@@ -175,3 +201,4 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
 - Python ML for games using reinforcement learning
 - [Functional Programming](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - Watch maths for ML
+- Flashcards using [Gizmo](https://gizmo.ai/) (A Cambridge startup)
