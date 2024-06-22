@@ -57,6 +57,10 @@ List of repos that have spun out from this idea generation repo
   - Video by [Raid Owl](https://www.youtube.com/watch?v=rmVCtZrtvgA)
   - Check notes with Noah
   - [TrueNAS](https://www.truenas.com/truenas-core/)
+  - [How to setup a simple DIY NAS](https://www.technicallywizardry.com/how-to-set-up-a-simple-diy-nas-build/)
+  - [DIY NAS 2020](https://blog.briancmoses.com/2020/11/diy-nas-2020-edition.html)
+  - [Conver Router into a NAS Server](https://dongknows.com/turning-wi-fi-router-usb-port-into-a-nas-server/)
+  - [Re-using an Old Router (perhaps as a NAS server?)](https://www.makeuseof.com/tag/ways-reuse-old-router/)
 - [Add SSD + HDD combo to PC](https://www.makeuseof.com/tag/using-a-small-ssd-and-a-regular-hard-drive-how-to-organize-your-files/)
 
 ---
@@ -77,6 +81,7 @@ List of repos that have spun out from this idea generation repo
     - This [gist](https://gist.github.com/giannivh/02f69ebf1470c811d0f52fec5dc669e4) exists to help configure the settings when installing Arch
   - Ubuntu:
     - [Wiki](https://wiki.ubuntu.com/Dell/XPS/XPS-13-7390-2-in-1) lists known issues
+ 
 
 - Minigames
   - Aim: Use the SSD1306 displays bought ages ago
