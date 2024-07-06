@@ -198,6 +198,7 @@ by using the reflective propoerties of stree-reflectors [cat's eyes](https://en.
 
 ## Skills to Learn / Reading List
 
+- [Explainable AI Packages](https://selfexplainml.github.io/PiML-Toolbox/_build/html/guides/testing.html)
 - Build WebApps using Rust (e.g. Rocket Framework)
 - [Gemoetric Deep Learning](https://geometricdeeplearning.com/)
 - Quantum Computing for programmers
